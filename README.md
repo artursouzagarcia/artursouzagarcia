@@ -44,11 +44,7 @@ Desenvolvedor full-stack a 10 anos, apaixonado por tecnogias e por aprendizado
 </a>
 
 <a href="#">
-      <img alt="sql" src="https://img.shields.io/badge/-Elixir*-4B275F?style=for-the-badge&logo=Elixir&logoColor=white" />
-</a>
-
-<a href="#">
-      <img alt="sql" src="https://img.shields.io/badge/-Python*-3776AB?style=for-the-badge&logo=Elixir&logoColor=white" />
+      <img alt="sql" src="https://img.shields.io/badge/-Python*-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 </a>
 
 #### :hammer: Frameworks
