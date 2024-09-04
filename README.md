@@ -105,9 +105,3 @@ Desenvolvedor full-stack a 10 anos, apaixonado por tecnogias e por aprendizado
 
 </p>
 
-
-#### 🎨 Design: <br/>
-
-<a href="#">
-      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</a>
