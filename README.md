@@ -34,7 +34,7 @@ Desenvolvedor full-stack a 10 anos, apaixonado por tecnogias e por aprendizado
       <img alt="sql" src="https://img.shields.io/badge/SQL-CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="sql" src="https://img.shields.io/badge/-C%20Sharp-191132?style=for-the-badge&logo=CSharp&logoColor=white" />
+      <img alt="sql" src="https://img.shields.io/badge/-C%20Sharp-191132?style=for-the-badge&logo=sharp&logoColor=white" />
 </a>
 <a href="#">
       <img alt="sql" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
